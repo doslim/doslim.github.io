@@ -1,20 +1,20 @@
 ---
-title: "Introduction to Python in Social Science"
+title: "Fundamentals of Business Computing and Intelligent Analytics"
 collection: teaching
-type: "Open lectures"
+type: "TA for undergraduate course"
 permalink: /teaching/2022-fall-teaching-2
-venue: "Tsinghua University, Quantitative Club"
+venue: "Tsinghua University, Department of Management Science and Engineering"
 date: 2022-09-01
 location: "Beijing, China"
 ---
 
-A lecture open to all students in THU on the use of Python and applications of machine learning.
+Compulsory courses for undergraduates in Department of Management Science and Engineering.
 
-Introduction
+Introduction 
 ======
 
-Contents
+Contents and Materials
 ======
 
-Recommended Materials
-======
+
+

@@ -1,6 +1,6 @@
 ---
-title: "Fundamentals of Business Computing and Intelligent Analytics"
-collection: teaching
+title: "Java Programming"
+collection: teaching.
 type: "TA for undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Tsinghua University, Department of Management Science and Engineering"

@@ -1,20 +1,20 @@
 ---
-title: "Java Programming"
+title: "Introduction to Python in Social Science"
 collection: teaching
-type: "TA for undergraduate course"
+type: "Open lectures"
 permalink: /teaching/2022-fall-teaching-3
-venue: "Tsinghua University, Department of Management Science and Engineering"
+venue: "Tsinghua University, Quantitative Club"
 date: 2022-09-01
 location: "Beijing, China"
 ---
 
-Compulsory courses for undergraduates in Department of Management Science and Engineering.
+A lecture open to all students in THU on the use of Python and applications of machine learning.
 
-Introduction 
+Introduction
 ======
 
-Contents and Materials
+Contents
 ======
 
-
-
+Recommended Materials
+======
