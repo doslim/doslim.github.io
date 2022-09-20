@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals of Business Computing and Intelligent Analytics"
 collection: teaching
-type: "Undergraduate course"
+type: "TA for undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Tsinghua University, Department of Management Science and Engineering"
 date: 2022-09-01
