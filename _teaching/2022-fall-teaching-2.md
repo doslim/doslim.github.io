@@ -13,8 +13,8 @@ A lecture open to all students in THU on the use of Python and applications of m
 Introduction
 ======
 
-
+Contents
 ======
 
-Heading 3
+Recommended Materials
 ======
