@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Tsinghua University, Department of Management Science and Engineering"
-date: 2022/9-2023/1
+date: 2022-09-01
 location: "Beijing, China"
 ---
 
