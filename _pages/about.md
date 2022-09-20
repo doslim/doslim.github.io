@@ -12,7 +12,7 @@ I'm now a Ph.D. student of **information system** in *[Department of Management 
 
 About Me
 ======
-- 👀 My research interests mainly lie in the intersection of data mining, machine learning and business intelligence.
+- 👀 My research interests mainly lie in the intersection of **data mining, machine learning and business intelligence**.
 - ✨ I currently focus on recommender systems, reinforcement learning and data-driven decision-making.
 - 🙌 I'm looking to collaborate on machine learning applications in business🤝.
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
