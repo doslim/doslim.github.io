@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm now a Ph.D. student of **information system** in *[Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mse/), [Tsinghua University](https://www.tsinghua.edu.cn/)*. Besides programming, I love sports, including swimming🏊, badminton🏸️ and body building🏋️.
+My name is Silin Du. I'm now a Ph.D. student of **information system** in *[Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mse/), [Tsinghua University](https://www.tsinghua.edu.cn/)*. Besides programming, I love sports, including swimming🏊, badminton🏸️ and body building🏋️.
 
 About Me
 ======
