@@ -8,13 +8,13 @@ date: 2022-09-01
 location: "Beijing, China"
 ---
 
-A lecture open to all students in THU on the use of Python and applications of machine learning.
+Compulsory courses for undergraduates in Department of Management Science and Engineering.
 
-Heading 1
+Introduction 
 ======
 
-Heading 2
+Contents and Materials
 ======
 
-Heading 3
-======
+
+
