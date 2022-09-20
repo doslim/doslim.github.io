@@ -8,7 +8,7 @@ date: 2022-09-01
 location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A lecture open to all students in THU on the use of Python and applications of machine learning.
 
 Heading 1
 ======
