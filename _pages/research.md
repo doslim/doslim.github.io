@@ -15,3 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+# Research
+
+## *Explainable Few-shot Talent Recommendation*, 2023
+
