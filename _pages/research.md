@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /reseach/
+permalink: /research/
 author_profile: true
 ---
 
@@ -14,3 +14,4 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
