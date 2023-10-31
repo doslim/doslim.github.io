@@ -191,6 +191,14 @@ collections:
 
 # Defaults
 defaults:
+    # _talks
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: talk
+      author_profile: true
+      share: true
   # _posts
   - scope:
       path: ""
