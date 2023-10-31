@@ -8,4 +8,4 @@ venue: "Reading Group, Department of Management Science and Engineering"
 location: "Beijing China"
 ---
 
-- Learning_and_Pricing with_Inventory_Constraints. [[Slide](http://dolsim.github.io/files/Learning_and_Pricing with_Inventory_Constraints.pdf)]
+- Learning and Pricing with Inventory Constraints. [[Slides](http://dolsim.github.io/files/Learning_and_Pricing_with_Inventory_Constraints.pdf)]
