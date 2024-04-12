@@ -8,4 +8,4 @@ venue: "Seminar, Department of Management Science and Engineering"
 location: "Beijing, China"
 ---
 
-- Large Language Models and Recommender Systems. [[Slides](http://doslim.github.io/files/llm_rs.pdf)]
+- Large Language Models and Recommender Systems. [[Slides](http://doslim.github.io/files/llm.pdf)]
