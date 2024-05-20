@@ -29,7 +29,7 @@ author_profile: true
 - **Abstract:**  Job mobility is one of the most significant problems in enterprise and talent management. Traditionally, survey methods are widely adopted to analyze the key factors of job mobility, but the survey data cannot timely provide reliable information. Thanks to the development of smart de- vices with location services, it is convenient to collect people’s trajectories automatically and continuously. Furthermore, people’s trajectories may bear many indications about job mobility. To this end, we design a trajectory-based multi-task learn- ing network for job mobility prediction, namely TJ-MTNet. Specifically, TJ-MTNet includes: (1) a *multi-level spatial-temporal encoder* to capture the spatial-temporal patterns of trajectories; (2) a *graph-based activity encoder* to capture the semantic information hidden in trajectories, which per- forms graph convolutional neural networks on a constructed activity graph and (3) *task-specified gates and decoders* to filter out useful latent transition patterns with supervisions by the downstream tasks (i.e., job mobility prediction and an auxiliary task). The results on real-world mobility datasets show the superiority of TJ-MTNet against extensive baselines. -->
 
 
-#### 1.  Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game
+## 1.  Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game
 
 Silin Du, Xiaowei Zhang, 2024, Under Review 
 
@@ -38,7 +38,7 @@ Silin Du, Xiaowei Zhang, 2024, Under Review
 - **Keywords**: Opinion Leadership, Large Language Models, Werewolf Game, Simulation, Human-AI Interaction
 - **Abstract:** Large language models (LLMs) have exhibited memorable strategic behaviors in social deductive games. However, the significance of opinion leadership exhibited by LLM-based agents has been overlooked, which is crucial for practical applications in multi-agent and human-AI interaction settings. Opinion leaders are individuals who have a noticeable impact on the beliefs and behaviors of others within a social group. In this work, we employ the Werewolf game as a simulation platform to assess the opinion leadership of LLMs. The game features the role of the Sheriff, tasked with summarizing arguments and recommending decision options, and therefore serves as a credible proxy for an opinion leader. We develop a framework integrating the Sheriff role and devise two novel metrics for evaluation based on the critical characteristics of opinion leaders. The first metric measures the reliability of the opinion leader, and the second assesses the influence of the opinion leader on other players' decisions. We conduct extensive experiments to evaluate LLMs of different scales. In addition, we collect a Werewolf question-answering dataset (WWQA) to assess and enhance LLM's grasp of the game rules, and we also incorporate human participants for further analysis. The results suggest that the Werewolf game is a suitable test bed to evaluate the opinion leadership of LLMs and few LLMs possess the capacity for opinion leadership.
 
-#### 2.  Exploring a New Competency Modeling Process via Large Language Models
+## 2.  Exploring a New Competency Modeling Process via Large Language Models
 
 Silin Du, Manqing Xin, 2024, Under Review
 
