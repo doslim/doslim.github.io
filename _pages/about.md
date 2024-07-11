@@ -10,18 +10,39 @@ redirect_from:
 
 My name is Silin Du. I'm now a Ph.D. student of **information system** in *[Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/), [Tsinghua University](https://www.tsinghua.edu.cn/)*. Besides programming, I love sports, including swimming🏊, badminton🏸️ and body building🏋️.
 
-About Me
-======
 - 👀 My research interests mainly lie in the intersection of **data mining, machine learning and business intelligence**.
 - ✨ I currently focus on recommender systems and large language models.
-- 🙌 I'm looking to collaborate on machine learning applications in business🤝.
+- 🙌 I'm looking to collaborate on machine learning applications in social science and business 🤝.
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
 
+# 🔥 News
 
-Education
+<style>
+  .scrollable {
+    max-height: 260px; /* 设置最大高度 */
+    overflow-y: scroll; /* 设置垂直滚动条 */
+  }
+</style>
+
+<div class="scrollable">
+  <ul>
+  <li> <i>2024.7</i>: 🎲 Our paper, "Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game", is accepted to First Conference on Language Modeling (COLM) 2024. </li>
+  <li> <i>2024.5</i>: 🎲 Three papers are submitted to International Conference on Information Systems (ICIS) 2024.  </li>
+  </ul>
+</div>
+
+# 📝 Publication
+
+- Silin Du & Xiaowei Zhang, Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game, *First Conference on Language Modeling (COLM)*, 2024. 
+
+
+
+
+🏫 Education
 ======
 - 🏫 PhD, Department of Management Science and Engineering, Tsinghua University.
 - 🏫 BSc, School of Information Management and Engineering, Shanghai University of Finance and Economics.
+
 
 <!-- Site-wide configuration
 ------

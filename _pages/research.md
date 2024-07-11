@@ -31,7 +31,7 @@ author_profile: true
 
 ## 1.  Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game
 
-Silin Du, Xiaowei Zhang, 2024, Under Review 
+Silin Du, Xiaowei Zhang, *First Conference on Language Modeling (COLM)*, 2024
 
 [![Paper](https://img.shields.io/badge/Paper-Arvix%20Link-green)](https://arxiv.org/abs/2404.01602) [![Code](https://img.shields.io/badge/Code-Github%20Link-orange)](https://github.com/doslim/Evaluate-the-Opinion-Leadership-of-LLMs) 
 
