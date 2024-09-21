@@ -10,8 +10,11 @@ redirect_from:
 
 My name is Silin Du. I'm now a Ph.D. student of **information system** in *[Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/), [Tsinghua University](https://www.tsinghua.edu.cn/)*. Besides programming, I love sports, including swimming🏊, badminton🏸️ and body building🏋️.
 
-- 👀 My research interests mainly lie in the intersection of **data mining, machine learning and business intelligence**.
-- ✨ I currently focus on recommender systems and large language models.
+- 👀 My research interests mainly lie in the intersection of three directions:
+  (1) Designing advanced methods for business intelligence.
+  (2) Evaluating intelligent agents in terms of social, ethical and human-interaction aspects.
+  (3) Reshaping traditional business process (e.g., talent selection and evaluation) with new technologies.
+- ✨ Now I mainly focus on recommender systems and large language models.
 - 🙌 I'm looking to collaborate on machine learning applications in social science and business 🤝.
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
 
@@ -26,8 +29,8 @@ My name is Silin Du. I'm now a Ph.D. student of **information system** in *[Depa
 
 <div class="scrollable">
   <ul>
+  <li> <i>2024.9</i>: 🎲 One paper is accepted to International Conference on Information Systems (ICIS) 2024. </li>
   <li> <i>2024.7</i>: 🎲 Our paper, "Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game", is accepted to First Conference on Language Modeling (COLM) 2024. </li>
-  <li> <i>2024.5</i>: 🎲 Three papers are submitted to International Conference on Information Systems (ICIS) 2024.  </li>
   </ul>
 </div>
 
