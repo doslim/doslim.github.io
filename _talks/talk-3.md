@@ -1,5 +1,5 @@
 ---
-title: "Joint Learning and Optimization in Operation Management"
+title: "Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game."
 collection: talks
 type: "Presentation"
 permalink: /talks/talk-3
@@ -8,4 +8,4 @@ date: 2024-04-28
 location: "Beijing China"
 ---
 
-- Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game. [[Slides](http://doslim.github.io/files/Evaluate_the_Opinion_Leadership_of_LLMs.pdf)]
+- Evaluate the Opinion Leadership of LLMs in the Werewolf Game. [[Slides](http://doslim.github.io/files/Evaluate_the_Opinion_Leadership_of_LLMs.pdf)]
