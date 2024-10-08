@@ -23,7 +23,8 @@ My name is Silin Du. I'm now a Ph.D. student of **information system** in *[Depa
 - 🙌 I'm looking to collaborate on machine learning applications in social science and business 🤝.
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
 
-<font size="5" color="red">🔍 I am actively seeking a position as a visiting Ph.D. student.</font>
+<font size="4" color="red">🔍 I am actively seeking a position as a visiting Ph.D. student.</font>
+
 
 # 🔥 News
 
