@@ -1,7 +1,7 @@
 ---
 title: "Causal Inference and Machine Learning"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/talk-1
 venue: "Seminar, Department of Management Science and Engineering"
 date: 2023-03-30

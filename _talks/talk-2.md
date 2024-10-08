@@ -1,7 +1,7 @@
 ---
 title: "Large Language Models"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/talk-2
 venue: "Seminar, Department of Management Science and Engineering"
 date: 2023-09-03
