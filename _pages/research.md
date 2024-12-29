@@ -21,7 +21,7 @@ author_profile: true
 
 <!-- > ( $^{*}$ equal contribution, $^{\dagger}$ corresponding author) -->
 
-> ( $^{*}$ equal contribution, $^{\dagger}$ corresponding author)
+> ( $^{*}$ equal contribution)
 
 
 # 📝 Archived Publications
@@ -59,7 +59,7 @@ author_profile: true
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='./images/spmamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-[W3] A Disentangled Learning Framework for Bias-Controllable Large Language Model-based User Simulator. Shangkun Che<sup>*</sup> , **Silin Du** <sup>*</sup> , Hongyan Liu. 
+[W3] A Disentangled Learning Framework for Bias-Controllable Large Language Model-based User Simulator. Shangkun Che <sup>*</sup>, **Silin Du** <sup>*</sup>, Hongyan Liu. 
 
 [W2] Measuring Counterfactual Fairness of Large Language Model based Recommender Systems: An Identifiable Causal Model. Shangkun Che, **Silin Du**, Hongyan Liu, Xiaojie Mao. 
 
