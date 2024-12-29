@@ -65,7 +65,7 @@ author_profile: true
 
 [W1] Exploring a New Competency Modeling Process via Large Language Models. **Silin Du**, Manqing Xin.
 
-- **Keywords**: Large Language Models, Competency Modeling, Human Resources Management -->
+- **Keywords**: Large Language Models, Competency Modeling, Human Resources Management
 
 <!-- </div>
 </div> -->
