@@ -26,7 +26,9 @@ author_profile: true
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIS 2024</div><img src='../images/icis24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[C2] [L3TR: Large Language Models for Listwise Talent Recommendation.](https://www.mdpi.com/2072-4292/16/16/2899) **Silin Du**, Hongyan Liu. **International Conference on Information Systems (ICIS) 2024, Bangkok, Thailand.**
+[C2] [L3TR: Large Language Models for Listwise Talent Recommendation.](https://www.mdpi.com/2072-4292/16/16/2899) **Silin Du**, Hongyan Liu. 
+
+**International Conference on Information Systems (ICIS) 2024, Bangkok, Thailand.**
 
 - **Keywords**:  Large language models, Talent recommendation, Listwise recommendation, Fine-tuning, Positional encoding, Position bias
 - **Abstract:** Many companies encounter human resource challenges, with high recruitment costs and long hiring cycles being particularly prominent. Numerous studies propose models to expedite the matching of talent with jobs. The remarkable ability of large language models (LLMs) to understand texts provides unprecedented opportunities to build LLM-based talent recommendation models. However, previous attempts focus on the pointwise setting, requiring LLMs to repeatedly process some text and ignoring the relationship among talents in the candidate list, which is inefficient and inferior. Therefore, we propose a novel method to enhance LLMs with the listwise talent recommendation task, named L3TR. First, we propose two strategies to extract the recommendation results from LLMs. Then we design a hierarchical positional embedding to enhance the connection between the job postings and each resume in the candidate list. Experiments on a real-world dataset show the superiority of L3TR over classic methods and LLM-based methods in terms of accuracy.
@@ -38,7 +40,9 @@ author_profile: true
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='../images/colm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[C1] [Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game.](https://openreview.net/forum?id=xMt9kCv5YR#discussion) **Silin Du**, Xiaowei Zhang. **First Conference on Language Modeling (COLM) 2024, Philadelphia, United States.**
+[C1] [Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game.](https://openreview.net/forum?id=xMt9kCv5YR#discussion) **Silin Du**, Xiaowei Zhang. 
+
+**First Conference on Language Modeling (COLM) 2024, Philadelphia, United States.**
 
 [![Paper](https://img.shields.io/badge/Paper-OpenReview%20-green)](https://openreview.net/forum?id=xMt9kCv5YR#discussion) [![Code](https://img.shields.io/badge/Code-Github%20Link-orange)](https://github.com/doslim/Evaluate-the-Opinion-Leadership-of-LLMs) 
 
