@@ -1,11 +1,11 @@
 ---
-title: "Joint Learning and Optimization in Operation Management"
+title: "Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game."
 collection: talks
 type: "Presentation"
 permalink: /talks/talk-3
-venue: "Reading Group, Department of Management Science and Engineering"
-# date: 2014-03-01
+venue: "Ph.D. Student Forum, School of Economics and Management"
+date: 2024-04-28
 location: "Beijing China"
 ---
 
-- Learning and Pricing with Inventory Constraints. [[Slides](http://doslim.github.io/files/Learning_and_Pricing_with_Inventory_Constraints.pdf)]
+- Evaluate the Opinion Leadership of LLMs in the Werewolf Game. [[Slides](http://doslim.github.io/files/Evaluate_the_Opinion_Leadership_of_LLMs.pdf)]

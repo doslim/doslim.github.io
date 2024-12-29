@@ -1,11 +1,11 @@
 ---
-title: "Large Language Models"
+title: "Causal Inference and Machine Learning"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/talk-1
 venue: "Seminar, Department of Management Science and Engineering"
-# date: 2012-03-01
+date: 2023-03-30
 location: "Beijing, China"
 ---
 
-- Large Language Models and Recommender Systems. [[Slides](http://doslim.github.io/files/llm.pdf)]
+- Causal Inference and Machine Learning. [[Slides](http://doslim.github.io/files/Introduction_to_Causal_Inference.pdf)]

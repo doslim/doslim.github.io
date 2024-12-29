@@ -11,16 +11,15 @@ redirect_from:
 My name is Silin Du. I'm now a Ph.D. student of **information system** in *[Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/), [Tsinghua University](https://www.tsinghua.edu.cn/)*. Besides programming, I love sports, including swimming🏊, badminton🏸️ and body building🏋️.
 
 - 👀 My research interests mainly lie in the intersection of three directions:
-
-  (1) Designing advanced methods for business intelligence.
-
-  (2) Evaluating intelligent agents in terms of social, ethical and human-interaction aspects.
-
-  (3) Reshaping traditional business process (e.g., talent selection and evaluation) with new technologies.
+  - Designing advanced methods for business intelligence.
+  - Evaluating intelligent agents in terms of social, ethical and human-interaction aspects.
+  - Reshaping traditional business process (e.g., talent selection and evaluation) with new technologies.
   
 - ✨ Now I mainly focus on recommender systems and large language models.
 - 🙌 I'm looking to collaborate on machine learning applications in social science and business 🤝.
 - 📫 Contact me by dsl21@mails.tsinghua.edu.cn
+- <font size="5" color="red">🔍 I am actively seeking a position as a visiting Ph.D. student.</font>
+
 
 # 🔥 News
 
@@ -40,6 +39,7 @@ My name is Silin Du. I'm now a Ph.D. student of **information system** in *[Depa
 
 # 📝 Publication
 
+- Silin Du & Hongyan Liu, L3TR: Large Language Models for Listwise Talent Recommendation, *International Conference on Information Systems (ICIS)*, 2024. 
 - Silin Du & Xiaowei Zhang, Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game, *First Conference on Language Modeling (COLM)*, 2024. 
 
 
