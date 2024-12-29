@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Introduction to Python in Social Science"
 collection: teaching
 type: "Open lectures"
@@ -17,4 +17,4 @@ Contents
 ======
 
 Recommended Materials
-======
+====== -->

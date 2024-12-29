@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Java Programming"
 collection: teaching
 type: "TA for undergraduate course"
@@ -17,4 +17,4 @@ Contents and Materials
 ======
 
 
-
+ -->

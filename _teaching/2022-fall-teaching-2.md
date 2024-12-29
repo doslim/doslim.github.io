@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Fundamentals of Business Computing and Intelligent Analytics"
 collection: teaching
 type: "TA for undergraduate course"
@@ -17,4 +17,4 @@ Contents and Materials
 ======
 
 
-
+ -->
